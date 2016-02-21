@@ -1,5 +1,3 @@
-# Distributed-system-project_1
-First distributed system project
 For this project, I write a server program that will serve as a key value store.  It will be set up to allow a single client to communicate with the server and perform three basic operations: 
 1) PUT(key, value)
 2) GET (key)
